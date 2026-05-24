@@ -82,6 +82,7 @@ The platform focuses on:
 /server
 /docs
 /components
+```
 Current Status
 
 Project planning and architecture phase.
