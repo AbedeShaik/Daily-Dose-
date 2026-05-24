@@ -82,13 +82,3 @@ The platform focuses on:
 /server
 /docs
 /components
----
-
-# Then
-
-Tap:
-# Commit changes
-
-Commit message:
-```bash
-Initial project README
