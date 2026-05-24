@@ -82,3 +82,18 @@ The platform focuses on:
 /server
 /docs
 /components
+Current Status
+
+Project planning and architecture phase.
+
+⸻
+
+Goals
+
+Build a clean, modern, AI-first social media automation platform focused on simplicity and intelligent scheduling.
+
+⸻
+
+License
+
+MIT
